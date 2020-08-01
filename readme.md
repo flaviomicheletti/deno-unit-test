@@ -12,3 +12,8 @@ Resultado...
     test async hello world ... ok (1022ms)
 
     test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out (1024ms)
+
+
+### Doc
+
+https://deno.land/manual/testing
